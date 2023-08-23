@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(150, 228, 228);
+    margin: 0;
+}
+
+header{
+    width: 600px;
+    text-align: center;
+    border: 2px solid rgb(180, 183, 230);
+    border-radius: 30px;
+    margin: 0 auto;
+}
+
+.block1.block1__img_size{
+    background-color: white;
+    width: 250px;
+}
+
+
+h3{
+    text-decoration: underline;
+}
+
+.submit:hover{
+    background-color: rgb(150, 228, 228);
+}
+
+main{
+    display: flex;
+}
+
+section{
+    width: 600px;
+    /* border: 2px solid black; */
+    /* text-align: center; */
+    margin: 10px auto;
+}
+
+.FIO{
+    text-align: center;  
+}
+
+footer{
+    text-align: center;
+}
+
+.Фамилия{
+    margin-left: 2px;
+}
+
+.Имя{
+    margin-left: 35px;
+}
+
+.Сохранить{
+    margin: 5px 0 0 -20px;
+}
+
+.Сохранить:hover{
+    background-color: rgb(150, 228, 228);
+}
+
+
+hr{
+    width: 600px;
+    margin: 10px auto;
+}
