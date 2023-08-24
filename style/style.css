@@ -93,7 +93,7 @@ footer{
 }
 
 .Очистить{
-    margin: 5px 0 0 16px;
+    margin: 5px 0 0 0;
 }
 
 .Очистить:hover{
@@ -121,7 +121,7 @@ hr{
 }
 
 .test__inline{
-    width: 1120px;
+/*     width: 1120px; */
     height: 300px;
     /* border: 2px solid black; */
     margin: 20px;
